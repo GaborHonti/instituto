@@ -2,6 +2,7 @@
 
 namespace App\Http\Resources;
 
+use App\Centro;
 use Illuminate\Http\Resources\Json\JsonResource;
 
 class CentroResource extends JsonResource
